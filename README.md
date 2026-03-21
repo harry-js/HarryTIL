@@ -45,5 +45,7 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="devops">DevOpt (전체 보기)</strong></summary>
+
+- [2026-03-21-Oracle-Cloud-무료-티어-활용-및-주의사항](devops/2026-03-21-Oracle-Cloud-무료-티어-활용-및-주의사항.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
