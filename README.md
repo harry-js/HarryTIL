@@ -7,43 +7,43 @@
 
 ### 📂 지식 카테고리
 
-<details>
+<details open>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
-<details>
+<details open>
   <summary style="font-size: 16px;"><strong id="golang">Golang (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
-<details>
+<details open>
   <summary style="font-size: 16px;"><strong id="nodejs">Node.js (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
-<details>
+<details open>
   <summary style="font-size: 16px;"><strong id="react">React (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
-<details>
+<details open>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
-<details>
+<details open>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
-<details>
+<details open>
   <summary style="font-size: 16px;"><strong id="devops">DevOpt (전체 보기)</strong></summary>
 
 - [2026-03-21-Oracle-Cloud-무료-티어-활용-및-주의사항](devops/2026-03-21-Oracle-Cloud-무료-티어-활용-및-주의사항.md)
