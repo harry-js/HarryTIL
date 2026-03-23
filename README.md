@@ -53,5 +53,7 @@
 
 <details open>
   <summary style="font-size: 16px;"><strong id="util">UTIL</strong></summary>
+
+- [2026-03-23-Tmux-터미널-멀티플렉서-기본-학습](util/2026-03-23-Tmux-터미널-멀티플렉서-기본-학습.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
